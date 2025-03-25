@@ -26,6 +26,8 @@ A brief overview of your project and its purpose. Mention which problem statemen
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
 
+## Init
+
 ## ⚙️ What It Does
 Explain the key features and functionalities of your project.
 
